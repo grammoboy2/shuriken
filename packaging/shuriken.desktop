@@ -8,5 +8,9 @@ Comment[fr]=Trancheur de rythme
 Exec=shuriken %F
 Icon=shuriken
 Terminal=false
+X-NSM-Capable=true
+X-NSM-Exec=shuriken
 Type=Application
 Categories=AudioVideo;Audio;AudioVideoEditing;
+
+
